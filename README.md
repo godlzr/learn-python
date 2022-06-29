@@ -65,17 +65,17 @@ written correctly.
 ## Table of Contents
 
 1. **Getting Started**
-    - [ ] [What is Python](src/getting_started/what_is_python.md)
-    - [ ] [Python Syntax](src/getting_started/python_syntax.md)
-    - [ ] [Variables](src/getting_started/test_variables.py)
+    - [X] [What is Python](src/getting_started/what_is_python.md)
+    - [X] [Python Syntax](src/getting_started/python_syntax.md)
+    - [X] [Variables](src/getting_started/test_variables.py)
 2. **Operators**
-    - [ ] [Arithmetic Operators](src/operators/test_arithmetic.py) (`+`, `-`, `*`, `/`, `//`, `%`, `**`)
-    - [ ] [Bitwise Operators](src/operators/test_bitwise.py) (`&`, `|`, `^`, `>>`, `<<`, `~`)
-    - [ ] [Assignment Operators](src/operators/test_assigment.py) (`=`, `+=`, `-=`, `/=`, `//=` etc.)
-    - [ ] [Comparison Operator](src/operators/test_comparison.py) (`==`, `!=`, `>`, `<`, `>=`, `<=`)
-    - [ ] [Logical Operators](src/operators/test_logical.py) (`and`, `or`, `not`)
-    - [ ] [Identity Operators](src/operators/test_identity.py) (`is`, `is not`)
-    - [ ] [Membership Operators](src/operators/test_membership.py) (`in`, `not in`)
+    - [X] [Arithmetic Operators](src/operators/test_arithmetic.py) (`+`, `-`, `*`, `/`, `//`, `%`, `**`)
+    - [X] [Bitwise Operators](src/operators/test_bitwise.py) (`&`, `|`, `^`, `>>`, `<<`, `~`)
+    - [X] [Assignment Operators](src/operators/test_assigment.py) (`=`, `+=`, `-=`, `/=`, `//=` etc.)
+    - [X] [Comparison Operator](src/operators/test_comparison.py) (`==`, `!=`, `>`, `<`, `>=`, `<=`)
+    - [X] [Logical Operators](src/operators/test_logical.py) (`and`, `or`, `not`)
+    - [X] [Identity Operators](src/operators/test_identity.py) (`is`, `is not`)
+    - [X] [Membership Operators](src/operators/test_membership.py) (`in`, `not in`)
 3. **Data Types**
     - [ ] [Numbers](src/data_types/test_numbers.py) (including booleans)
     - [ ] [Strings](src/data_types/test_strings.py) and their methods
