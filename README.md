@@ -77,13 +77,13 @@ written correctly.
     - [X] [Identity Operators](src/operators/test_identity.py) (`is`, `is not`)
     - [X] [Membership Operators](src/operators/test_membership.py) (`in`, `not in`)
 3. **Data Types**
-    - [ ] [Numbers](src/data_types/test_numbers.py) (including booleans)
-    - [ ] [Strings](src/data_types/test_strings.py) and their methods
-    - [ ] [Lists](src/data_types/test_lists.py) and their methods (including list comprehensions)
-    - [ ] [Tuples](src/data_types/test_tuples.py)
-    - [ ] [Sets](src/data_types/test_sets.py) and their methods
-    - [ ] [Dictionaries](src/data_types/test_dictionaries.py)
-    - [ ] [Type Casting](src/data_types/test_type_casting.py)
+    - [X] [Numbers](src/data_types/test_numbers.py) (including booleans)
+    - [X] [Strings](src/data_types/test_strings.py) and their methods
+    - [X] [Lists](src/data_types/test_lists.py) and their methods (including list comprehensions)
+    - [X] [Tuples](src/data_types/test_tuples.py)
+    - [X] [Sets](src/data_types/test_sets.py) and their methods
+    - [X] [Dictionaries](src/data_types/test_dictionaries.py)
+    - [X] [Type Casting](src/data_types/test_type_casting.py)
 4. **Control Flow**
     - [ ] [The `if` statement](src/control_flow/test_if.py)
     - [ ] [The `for` statement](src/control_flow/test_for.py) (and `range()` function)
