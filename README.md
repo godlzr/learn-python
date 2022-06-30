@@ -85,12 +85,12 @@ written correctly.
     - [X] [Dictionaries](src/data_types/test_dictionaries.py)
     - [X] [Type Casting](src/data_types/test_type_casting.py)
 4. **Control Flow**
-    - [ ] [The `if` statement](src/control_flow/test_if.py)
-    - [ ] [The `for` statement](src/control_flow/test_for.py) (and `range()` function)
-    - [ ] [The `while` statement](src/control_flow/test_while.py)
-    - [ ] [The `try` statements](src/control_flow/test_try.py)
-    - [ ] [The `break` statement](src/control_flow/test_break.py)
-    - [ ] [The `continue` statement](src/control_flow/test_continue.py)
+    - [X] [The `if` statement](src/control_flow/test_if.py)
+    - [X] [The `for` statement](src/control_flow/test_for.py) (and `range()` function)
+    - [X] [The `while` statement](src/control_flow/test_while.py)
+    - [X] [The `try` statements](src/control_flow/test_try.py)
+    - [X] [The `break` statement](src/control_flow/test_break.py)
+    - [X] [The `continue` statement](src/control_flow/test_continue.py)
 5. **Functions**
     - [ ] [Function Definition](src/functions/test_function_definition.py) (`def` and `return` statements)
     - [ ] [Scopes of Variables Inside Functions](src/functions/test_function_scopes.py) (`global` and `nonlocal` statements)
