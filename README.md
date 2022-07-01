@@ -111,8 +111,8 @@ written correctly.
     - [X] [Inheritance](src/classes/test_inheritance.py)
     - [X] [Multiple Inheritance](src/classes/test_multiple_inheritance.py)
 7. **Modules**
-    - [ ] [Modules](src/modules/test_modules.py) (`import` statement)
-    - [ ] [Packages](src/modules/test_packages.py)
+    - [X] [Modules](src/modules/test_modules.py) (`import` statement)
+    - [X] [Packages](src/modules/test_packages.py)
 8. **Errors and Exceptions**
     - [ ] [Handling Exceptions](src/exceptions/test_handle_exceptions.py) (`try` statement)
     - [ ] [Raising Exceptions](src/exceptions/test_raise_exceptions.py) (`raise` statement)
