@@ -114,23 +114,23 @@ written correctly.
     - [X] [Modules](src/modules/test_modules.py) (`import` statement)
     - [X] [Packages](src/modules/test_packages.py)
 8. **Errors and Exceptions**
-    - [ ] [Handling Exceptions](src/exceptions/test_handle_exceptions.py) (`try` statement)
-    - [ ] [Raising Exceptions](src/exceptions/test_raise_exceptions.py) (`raise` statement)
+    - [X] [Handling Exceptions](src/exceptions/test_handle_exceptions.py) (`try` statement)
+    - [X] [Raising Exceptions](src/exceptions/test_raise_exceptions.py) (`raise` statement)
 9. **Files**
-    - [ ] [Reading and Writing](src/files/test_file_reading.py) (`with` statement)
-    - [ ] [Methods of File Objects](src/files/test_file_methods.py)
+    - [X] [Reading and Writing](src/files/test_file_reading.py) (`with` statement)
+    - [X] [Methods of File Objects](src/files/test_file_methods.py)
 10. **Additions**
-    - [ ] [The `pass` statement](src/additions/test_pass.py)
-    - [ ] [Generators](src/additions/test_generators.py) (`yield` statement)
+    - [X] [The `pass` statement](src/additions/test_pass.py)
+    - [X] [Generators](src/additions/test_generators.py) (`yield` statement)
 11. **Brief Tour of the Standard Libraries**
-    - [ ] [Serialization](src/standard_libraries/test_json.py) (`json` library)
-    - [ ] [File Wildcards](src/standard_libraries/test_glob.py) (`glob` library)
-    - [ ] [String Pattern Matching](src/standard_libraries/test_re.py) (`re` library)
-    - [ ] [Mathematics](src/standard_libraries/test_math.py) (`math`, `random`, `statistics` libraries)
-    - [ ] [Dates and Times](src/standard_libraries/test_datetime.py) (`datetime` library)
-    - [ ] [Data Compression](src/standard_libraries/test_zlib.py) (`zlib` library)
+    - [X] [Serialization](src/standard_libraries/test_json.py) (`json` library)
+    - [X] [File Wildcards](src/standard_libraries/test_glob.py) (`glob` library)
+    - [X] [String Pattern Matching](src/standard_libraries/test_re.py) (`re` library)
+    - [X] [Mathematics](src/standard_libraries/test_math.py) (`math`, `random`, `statistics` libraries)
+    - [X] [Dates and Times](src/standard_libraries/test_datetime.py) (`datetime` library)
+    - [X] [Data Compression](src/standard_libraries/test_zlib.py) (`zlib` library)
 12. **User input**
-    - [ ] [Terminal input](src/user_input/test_input.py) (`input` statement)
+    - [X] [Terminal input](src/user_input/test_input.py) (`input` statement)
 
 ## Prerequisites
 
